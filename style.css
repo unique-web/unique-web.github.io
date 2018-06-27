@@ -1,0 +1,160 @@
+.bg {
+    background: #EA551A;
+}
+
+.container {
+    max-width: 2560px;
+    width: 95%;
+}
+
+.navbar-nav {
+    margin-left: 25vw;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: black;
+}
+
+.logo {
+    width: 200px;
+    height: 68px;
+    background-image: url("image/logo.jpg");
+    background-size: cover;
+}
+
+.nav-item {
+    text-align: center;
+}
+
+.banner_bag {
+    width: 100%;
+    height: 33vw;
+    background: #F29119;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 90%;
+    height: 33vw;
+    background-image: url("image/banner.jpg");
+    background-size: cover;
+}
+
+.information_inner {
+    padding: 50px 15%;
+}
+
+.information_block {
+    margin-bottom: 50px;
+}
+
+.information_title {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.information_pic {
+    width: 100%;
+    height: 12vw;
+    background-size: cover;
+}
+
+.information_photo {
+    width: 100%;
+    height: 55vw;
+    background-size: cover;
+}
+
+.pic1 {
+    background-image: url("image/pic-1.jpg");
+}
+
+.pic2 {
+    background-image: url("image/pic-2.jpg");
+}
+
+.pic3 {
+    background-image: url("image/pic-3.jpg");
+}
+
+.pic4 {
+    background-image: url("image/pic-4.jpg");
+}
+
+.pic5 {
+    background-image: url("image/pic-5.jpg");
+}
+
+.pic6 {
+    background-image: url("image/pic-6.jpg");
+}
+
+.btncolor {
+    background: #EA541A;
+    color: white;
+    border: solid #EA541A 1px;
+}
+
+.btn-light:hover {
+    background: white;
+    color: #EA541A;
+}
+
+.footer_inner {
+    padding: 40px 250px;
+    background: #EA541A;
+}
+
+.footer_title_section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_title {
+    color: white;
+    text-align: center;
+}
+
+.footer_title_section2 {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    background: #EA541A;
+    color: white;
+}
+
+.footer_contact {
+    margin-right: 20px;
+}
+
+.footer_icon_section {
+    display: flex;
+    justify-content: center;
+    background: #EA541A;
+}
+
+.footer_icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin: 0px 10px;
+}
+
+.icon_email {
+    background-image: url("image/email.png");
+    background-size: cover;
+}
+
+.icon_line {
+    background-image: url("image/line.png");
+    background-size: cover;
+}
+
+.icon_fb {
+    background-image: url("image/fb.png");
+    background-size: cover;
+}
