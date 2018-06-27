@@ -3,7 +3,7 @@
         margin-left: 28vw;
     }
     .footer_inner {
-        padding: 40px 500px;
+        padding: 40px 350px;
         background: #EA541A;
     }
     .section_title {
@@ -20,6 +20,14 @@
         text-align: center;
         font-size: 25px;
     }
+    .footer_title, .footer_contact{
+        font-size: 24px;
+    }
+    .footer_icon {
+        width: 90px;
+        height: 90px;
+        border-radius: 45px;
+    }
 }
 
 @media screen and (min-width:2000px) {
@@ -27,9 +35,10 @@
         margin-left: 40vw;
     }
     .footer_inner {
-        padding: 40px 700px;
+        padding: 40px 550px;
         background: #EA541A;
     }
+
 }
 
 @media screen and (max-width:1180px) {
